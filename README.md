@@ -10,6 +10,7 @@ PROGRAM:
 <img width="230" height="226" alt="530200247-560a882e-1652-48c4-88ad-a94f0a583f93" src="https://github.com/user-attachments/assets/ce945127-214d-4e75-a6bb-e409ce08b9f2" />
 
 OUTPUT:
+
 <img width="484" height="254" alt="530196452-17505b95-9744-478d-9aa7-cdc641d58b00" src="https://github.com/user-attachments/assets/4dade92f-5a66-4735-ae93-45f7936e8714" />
 
 RESULT: Thus , the program has been executed succesfully.
