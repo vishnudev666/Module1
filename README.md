@@ -6,6 +6,7 @@ ALGORITHM:
 Set variable a to the result of the expression 0 == True. Set variable b to the result of the expression False == False. Set variable c to the result of the expression True + True. Set variable d to the result of the expression False + 9. Print the value of a with the label "a is". Print the value of b with the label "b is". Print the value of c with the label "c:". Print the value of d with the label "d:".
 
 PROGRAM:
+
 <img width="230" height="226" alt="530200247-560a882e-1652-48c4-88ad-a94f0a583f93" src="https://github.com/user-attachments/assets/ce945127-214d-4e75-a6bb-e409ce08b9f2" />
 
 OUTPUT:
